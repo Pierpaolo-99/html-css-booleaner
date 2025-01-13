@@ -15,6 +15,7 @@
 
 #title{
     margin-bottom: 0;
+    font-size: 50px;
 }
 
 #name_author{
@@ -33,4 +34,39 @@
 
 .make_evident{
     background-color: yellow;
+}
+
+table{
+    border-collapse: collapse;
+    text-align: left;
+}
+
+td{
+    width: 30%;
+}
+
+#head_table{
+    background-color: #20a9e5;
+}
+
+.body_table{
+    background-color: #b1e5f2;
+}
+
+#suggestions{
+    color: #848484;
+}
+
+#item_monitor{
+    width: 240px;
+    height: 150px;
+    background-image: url(./img/monitor.jpg);
+    color: white;
+}
+
+#item_graph{
+    width: 240px;
+    height: 150px;
+    background-image: url(./img/graph.jpg);
+    color: white;
 }
