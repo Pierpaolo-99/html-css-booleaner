@@ -12,3 +12,25 @@
     position: absolute;
     bottom: 0;
 }
+
+#title{
+    margin-bottom: 0;
+}
+
+#name_author{
+    color: blue;
+}
+
+#date{
+    margin-top: 0;
+    font-size: 12px;
+}
+
+#origin_photo{
+    margin-top: 0;
+    font-size: 12px;
+}
+
+.make_evident{
+    background-color: yellow;
+}
