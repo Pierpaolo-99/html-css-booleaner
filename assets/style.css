@@ -1,3 +1,8 @@
+.container{
+    width: 1000px;
+    margin: auto;
+}
+
 
 #site_header{
     background-image: url(./img/pattern.png);
@@ -11,6 +16,7 @@
     width: 200px;
     position: absolute;
     bottom: 0;
+    left: 250px;
 }
 
 #title{
